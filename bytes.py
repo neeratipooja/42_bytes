@@ -25,3 +25,8 @@ v=b'[1,2,3]'
 print(list(v)) #[91,49,44,50,44,51,93]
 print(ord('[')) #91
 print(ord(',')) #44
+k=bytearray(b'kiranmai')
+print(k,type(k)) #bytearray(b'kiranmai') bytes
+print(k[1]) #105
+k[1]=122
+print(k)#bytearray(b'kzranmai')
