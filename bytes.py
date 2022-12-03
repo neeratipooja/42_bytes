@@ -1,7 +1,7 @@
 '''
-DAY:WEDNESDAy
-DATE:30th NOV 2022
-TOPIC:range
+DAY:thursday
+DATE:1st dec 2022
+TOPIC:bytes
 AUTHOR:pooja
 '''
 y=b'pooja'
